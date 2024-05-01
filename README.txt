@@ -34,3 +34,4 @@
  
 * git pull origin nombredelarama (traer todos los cambios).
 
+* git romete update (para actualizar las ramas en el local)
