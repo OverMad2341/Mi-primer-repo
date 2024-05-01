@@ -35,3 +35,5 @@
 * git pull origin nombredelarama (traer todos los cambios).
 
 * git remote update (para actualizar las ramas en el local)
+
+* touch nombre-del-archivo.html (para crear un archivo nuevo)
